@@ -1,0 +1,13 @@
+//python settings#
+
+{
+    "python.pythonPath": "E:\\APPLICATION\\Python\\python.exe",  //python安装路径
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+
+    "python.linting.flake8Args": [
+        "--max-line-length=120",
+        "--ignore=E402,F841,W291,F401,E302,E305,E261,E261,E226,E231,E265,E501,W292",//编号根据自己需要确定
+    ],
+}
