@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "istream": "cpp"
+    },
+    "cSpell.ignoreWords": [
+        "console"
+    ],
+    "cSpell.words": [
+        "console"
+    ],
+    "C_Cpp.errorSquiggles": "Enabled"
+}
